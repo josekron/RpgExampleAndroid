@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditTextPreference android:title="Nombre" android:key="nameworld" android:summary="Nombre del mundo" />
+    <EditTextPreference android:title="Ancho" android:key="widthworld" android:summary="Anchura del mundo"/>
+    <EditTextPreference android:title="Largo" android:key="heightworld" android:summary="Largura del mundo"/>
+    <CheckBoxPreference android:key="divlayer" android:title="Dividir capas" android:summary="Muestra la división de las capas del mundo."/>
+    
+
+</PreferenceScreen>
