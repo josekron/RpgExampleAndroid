@@ -10,9 +10,9 @@ Player (Incomplete)
 ======
 Player moves in 4 directions and incluye an animation sprite. Actually, animation sprite is the same for all directions.
 
-World Editor (Incomplete)
+Worldmap Editor (Incomplete)
 ============
-Include a world editor for facilitate the creation of maps. It´s incomplete and the buttons aren´t adapted to all smartphones.
+Include a worldmap editor for facilitate the creation of maps. It´s incomplete (non functional) and the buttons aren´t adapted to all smartphones.
 
 Screens
 =======
